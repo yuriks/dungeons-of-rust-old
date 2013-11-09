@@ -1,0 +1,3 @@
+*.sw[po]
+.rust
+/dungeons-of-rust
